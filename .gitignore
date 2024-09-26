@@ -718,3 +718,11 @@ y_test.pkl
 y_train.pkl
 y_val.pkl
 trained_models.pkl
+confusion_matrix_plot.png
+shap_beeswarm_plot.png
+shap_force_plot.png
+shap_summary_bar_plot.png
+shap_waterfall_plot.png
+trained_models.pkl
+trained_models.pkl
+best_model.pkl
