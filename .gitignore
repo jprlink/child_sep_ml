@@ -11,6 +11,12 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore pickle files
+*.pkl
+
+# Add any specific large files
+X_train.pkl
+
 # Distribution / packaging
 .Python
 build/
