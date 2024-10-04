@@ -790,3 +790,9 @@ y_test.pkl
 y_train.pkl
 y_val.pkl
 newenv_py312/Scripts/git-filter-repo.exe
+shap_interaction_plot.png
+shap_plot_kernel.png
+shap_plot_single_anomaly_kernel.png
+shap_waterfall_plot_sample_1.png
+shap_waterfall_plot_sample_2.png
+shap_waterfall_plot_sample_3.png
